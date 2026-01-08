@@ -1,6 +1,20 @@
 # About the MicrosoftEdge-Extensions repo
+<!-- https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md -->
 
 Use this **MicrosoftEdge-Extensions** repo as a community space.  This repo contains sample code, issues, and discussions about Microsoft Edge extensions (add-ons).
+
+**Contents:**
+* [Websites](#websites)
+* [Code](#code)
+* [Issues](#issues)
+* [Discussions](#discussions)
+* [Stay connected](#stay-connected)
+* [Documentation](#documentation)
+* [Release notes](#release-notes)
+
+
+<!-- ====================================================================== -->
+## Websites
 
 [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) is the store for Microsoft Edge extensions, where you can publish your Microsoft Edge extensions and make them available to Microsoft Edge users.
 
@@ -55,6 +69,7 @@ Use the [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues) p
 See also:
 * [GitHub Issues](https://docs.github.com/get-started/using-github/communicating-on-github#github-issues) in _Communicating on GitHub_.
 * [Scenarios for issues](https://docs.github.com/get-started/using-github/communicating-on-github#scenarios-for-issues) in _Communicating on GitHub_.
+* [How to Report a Feedback/Bug to Microsoft Edge's Team?](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876)<!-- /en-us/ required --> - use for Microsoft Edge-related issues other than extensions.
 
 
 <!-- ====================================================================== -->
@@ -110,9 +125,3 @@ See also:
 
 * [Release notes for Microsoft Edge extensions](https://aka.ms/EdgeAddonsReleaseNotes)
 <!-- aka links are noted in the destination .md file -->
-
-
-<!-- ====================================================================== -->
-## Edge-related issues other than extensions
-
-For Microsoft Edge-related issues other than extensions, see [How to Report a Feedback/Bug to Microsoft Edge's Team?](https://answers.microsoft.com/en-us/microsoftedge/forum/all/how-to-report-a-feedbackbug-to-microsoft-edges/20cc8eb5-11bb-43b6-95d1-e004d41ef876)<!-- /en-us/ required -->
