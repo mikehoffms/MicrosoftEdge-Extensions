@@ -102,10 +102,14 @@ See also:
 * [Extension concepts and architecture](https://aka.ms/EdgeAddonsLearn)
 * [Supported APIs for Microsoft Edge extensions](https://learn.microsoft.com/microsoft-edge/extensions/developer-guide/api-support)
 * [Register as a Microsoft Edge extension developer](https://learn.microsoft.com/microsoft-edge/extensions/publish/create-dev-account)
-* [Defining match patterns for an extension to access file URLs](https://learn.microsoft.com/microsoft-edge/extensions/enterprise/match-patterns)
-* [Roadmap for Microsoft Edge extensions](https://aka.ms/EdgeAddonsRoadmap)
-* [Released features for Microsoft Edge extensions](https://aka.ms/EdgeAddonsReleaseNotes)
-<!-- the 4 aka links are noted in the destination .md file -->
+<!-- aka links are noted in the destination .md file -->
+
+
+<!-- ====================================================================== -->
+## Release notes
+
+* [Release notes for Microsoft Edge extensions](https://aka.ms/EdgeAddonsReleaseNotes)
+<!-- aka links are noted in the destination .md file -->
 
 
 <!-- ====================================================================== -->
