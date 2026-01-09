@@ -16,7 +16,7 @@ Use this **MicrosoftEdge-Extensions** repo as a community space.  This repo cont
 <!-- ====================================================================== -->
 ## Websites
 
-[Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) is the store for Microsoft Edge extensions, where you can publish your Microsoft Edge extensions and make them available to Microsoft Edge users.
+As a Microsoft Edge extension developer, you use Partner Center to publish your Microsoft Edge extensions at the [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) site, to make your extensions available to Microsoft Edge users.
 
 [Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft-edge/extensions/) is a central portal for information and resources for developing Microsoft Edge extensions.
 
@@ -56,7 +56,7 @@ https://github.com/microsoft/MicrosoftEdge-Extensions/blob/main/README.md#issues
 Use the [Issues](https://github.com/microsoft/MicrosoftEdge-Extensions/issues) page of this **MicrosoftEdge-Extensions** repo for:
 
 * Communicating with the Extensions team:
-  * Report bugs or issues about [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/) (the store) that affect all Edge extension developers or all Microsoft Edge extension users.
+  * Report bugs or issues about the [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/) site that affect all Edge extension developers or all Microsoft Edge extension users.
   * Report bugs or issues about Microsoft Partner Center that affect all Edge extension developers or all Microsoft Edge extension users.
   * Suggest new features that could impact or benefit all Microsoft Edge extension developers.
   * Inquire about your Partner Center developer account for Microsoft Edge extensions.
