@@ -16,9 +16,9 @@ Use this **MicrosoftEdge-Extensions** repo as a community space.  This repo cont
 <!-- ====================================================================== -->
 ## Websites
 
-As a Microsoft Edge extension developer, you use Partner Center to publish your Microsoft Edge extensions at the [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) site, to make your extensions available to Microsoft Edge users.
+* The [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) site - As a Microsoft Edge extension developer, you use Partner Center to publish your extension at this site, to make the extension available to Microsoft Edge users.
 
-[Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft-edge/extensions/) is a central portal for information and resources for developing Microsoft Edge extensions.
+* [Microsoft Edge Add-ons Developer](https://developer.microsoft.com/microsoft-edge/extensions/) - A central portal for information and resources for developing Microsoft Edge extensions.
 
 
 <!-- ====================================================================== -->
